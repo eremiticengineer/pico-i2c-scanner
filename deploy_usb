@@ -1,0 +1,5 @@
+# pico
+#cp build/picoi2cscanner.uf2 /media/pi/RPI-RP2
+
+# pico2
+cp build/picoi2cscanner.uf2 /media/pi/RP2350
